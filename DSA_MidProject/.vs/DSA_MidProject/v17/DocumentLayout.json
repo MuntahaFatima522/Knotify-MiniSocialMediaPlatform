@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740243CA-585D-4A48-90A2-184ECBED30FE}|DSA_MidProject\\DSA_MidProject.csproj|c:\\users\\user\\documents\\semester3\\dsal\\midproject\\dsa_midproject\\dsa_midproject\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740243CA-585D-4A48-90A2-184ECBED30FE}|DSA_MidProject\\DSA_MidProject.csproj|solutionrelative:dsa_midproject\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740243CA-585D-4A48-90A2-184ECBED30FE}|DSA_MidProject\\DSA_MidProject.csproj|c:\\users\\user\\documents\\semester3\\dsal\\midproject\\dsa_midproject\\dsa_midproject\\datastructures\\usernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740243CA-585D-4A48-90A2-184ECBED30FE}|DSA_MidProject\\DSA_MidProject.csproj|solutionrelative:dsa_midproject\\datastructures\\usernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740243CA-585D-4A48-90A2-184ECBED30FE}|DSA_MidProject\\DSA_MidProject.csproj|c:\\users\\user\\documents\\semester3\\dsal\\midproject\\dsa_midproject\\dsa_midproject\\dl\\friendcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740243CA-585D-4A48-90A2-184ECBED30FE}|DSA_MidProject\\DSA_MidProject.csproj|solutionrelative:dsa_midproject\\dl\\friendcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740243CA-585D-4A48-90A2-184ECBED30FE}|DSA_MidProject\\DSA_MidProject.csproj|c:\\users\\user\\documents\\semester3\\dsal\\midproject\\dsa_midproject\\dsa_midproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740243CA-585D-4A48-90A2-184ECBED30FE}|DSA_MidProject\\DSA_MidProject.csproj|solutionrelative:dsa_midproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\DSA_MidProject\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DSA_MidProject\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\DSA_MidProject\\DatabaseHelper.cs",
+              "RelativeToolTip": "DSA_MidProject\\DatabaseHelper.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:56:46.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\DSA_MidProject\\DataStructures\\UserNode.cs",
+              "RelativeDocumentMoniker": "DSA_MidProject\\DataStructures\\UserNode.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\DSA_MidProject\\DataStructures\\UserNode.cs",
+              "RelativeToolTip": "DSA_MidProject\\DataStructures\\UserNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:17:57.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FriendCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\DSA_MidProject\\DL\\FriendCRUD.cs",
+              "RelativeDocumentMoniker": "DSA_MidProject\\DL\\FriendCRUD.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\DSA_MidProject\\DL\\FriendCRUD.cs",
+              "RelativeToolTip": "DSA_MidProject\\DL\\FriendCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:08:07.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\DSA_MidProject\\Program.cs",
+              "RelativeDocumentMoniker": "DSA_MidProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\semester3\\DSAL\\MidProject\\DSA_MidProject\\DSA_MidProject\\Program.cs",
+              "RelativeToolTip": "DSA_MidProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:37:26.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

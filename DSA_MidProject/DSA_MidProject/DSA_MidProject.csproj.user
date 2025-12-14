@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\CreatePost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FindFriends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FriendRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Friends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ManagePost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SearchFeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SortedFeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\UserMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
