@@ -60,8 +60,7 @@ The project follows a four-layer design:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ## About
-Built as a mid-semester project for CSC-200L Data Structures and 
-Algorithms at the University of Engineering and Technology, Lahore. 
-The goal was to implement practical social media functionality 
+Built as a mid-semester project for Data Structures and 
+Algorithms. The goal was to implement practical social media functionality 
 using Queues, Stacks, and Linked Lists — demonstrating that DSA 
 isn't just theory, it's the backbone of real applications.
